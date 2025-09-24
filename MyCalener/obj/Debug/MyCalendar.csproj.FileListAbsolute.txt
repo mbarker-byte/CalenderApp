@@ -1,0 +1,13 @@
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\bin\Debug\MyCalendar.exe.config
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\bin\Debug\MyCalendar.exe
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\bin\Debug\MyCalendar.pdb
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\obj\Debug\MyCalendar.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\obj\Debug\MyCalendar.Form1.resources
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\obj\Debug\MyCalendar.Properties.Resources.resources
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\obj\Debug\MyCalendar.UserControl1.resources
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\obj\Debug\MyCalendar.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\obj\Debug\MyCalendar.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\obj\Debug\MyCalendar.exe
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\obj\Debug\MyCalendar.pdb
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\obj\Debug\MyCalendar.DayControl.resources
+C:\Users\Michael\source\repos\MyCalendar\MyCalendar\obj\Debug\MyCalendar.EventForm.resources
